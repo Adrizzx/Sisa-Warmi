@@ -65,5 +65,5 @@ npx serve .
 
 ## Créditos
 
-- Diseño, adaptación y desarrollo: **Marco Adrián Padilla Triviño** ([@Adrizzx](https://github.com/Adrizzx)).
+- Diseño, adaptación y desarrollo: **Marco Adrian Padilla Triviño** ([@Adrizzx](https://github.com/Adrizzx)).
 - Construido a partir de la plantilla [NiceRestaurant](https://bootstrapmade.com/nice-restaurant-bootstrap-template/) de BootstrapMade, adaptada en contenido, estructura e imágenes (ver `CREDITOS-PLANTILLA.txt`).
